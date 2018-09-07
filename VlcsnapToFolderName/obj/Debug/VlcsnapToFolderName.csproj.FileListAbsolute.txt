@@ -1,8 +1,0 @@
-g:\users\clemens\documents\visual studio 2015\Projects\VlcsnapToFolderName\VlcsnapToFolderName\bin\Debug\VlcsnapToFolderName.exe.config
-g:\users\clemens\documents\visual studio 2015\Projects\VlcsnapToFolderName\VlcsnapToFolderName\bin\Debug\VlcsnapToFolderName.exe
-g:\users\clemens\documents\visual studio 2015\Projects\VlcsnapToFolderName\VlcsnapToFolderName\bin\Debug\VlcsnapToFolderName.pdb
-g:\users\clemens\documents\visual studio 2015\Projects\VlcsnapToFolderName\VlcsnapToFolderName\bin\Debug\OrdnerDatei.dll
-g:\users\clemens\documents\visual studio 2015\Projects\VlcsnapToFolderName\VlcsnapToFolderName\bin\Debug\OrdnerDatei.pdb
-g:\users\clemens\documents\visual studio 2015\Projects\VlcsnapToFolderName\VlcsnapToFolderName\obj\Debug\VlcsnapToFolderName.csprojResolveAssemblyReference.cache
-g:\users\clemens\documents\visual studio 2015\Projects\VlcsnapToFolderName\VlcsnapToFolderName\obj\Debug\VlcsnapToFolderName.exe
-g:\users\clemens\documents\visual studio 2015\Projects\VlcsnapToFolderName\VlcsnapToFolderName\obj\Debug\VlcsnapToFolderName.pdb
